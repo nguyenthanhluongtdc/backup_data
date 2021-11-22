@@ -1,0 +1,7 @@
+-postmain
+-xampp
+-visual studio code
+-wps
+-skype
+-sublime text
+-vim
