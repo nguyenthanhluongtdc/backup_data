@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento.deps.json
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento.runtimeconfig.json
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento.runtimeconfig.dev.json
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/ref/songuyento.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/bin/Debug/net5.0/songuyento.pdb
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.AssemblyInfo.cs
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/ref/songuyento.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.pdb
+/home/thanh-luong/Documents/kiemtrasonguyen/songuyento/obj/Debug/net5.0/songuyento.genruntimeconfig.cache

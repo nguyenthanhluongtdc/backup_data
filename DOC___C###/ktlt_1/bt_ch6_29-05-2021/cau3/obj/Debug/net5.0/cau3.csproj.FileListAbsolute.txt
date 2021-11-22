@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3.deps.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3.runtimeconfig.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3.runtimeconfig.dev.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/ref/cau3.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/bin/Debug/net5.0/cau3.pdb
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.AssemblyInfo.cs
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/ref/cau3.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.pdb
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau3/obj/Debug/net5.0/cau3.genruntimeconfig.cache

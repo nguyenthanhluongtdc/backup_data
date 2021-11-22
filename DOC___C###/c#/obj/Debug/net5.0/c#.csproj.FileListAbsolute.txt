@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#.deps.json
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#.dll
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/ref/c#.dll
+/home/thanh-luong/Documents/c#/bin/Debug/net5.0/c#.pdb
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.dll
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/ref/c#.dll
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.pdb
+/home/thanh-luong/Documents/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache

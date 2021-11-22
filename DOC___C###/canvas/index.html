@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            background: #000;
+            height: 5000px;
+        }
+
+        #canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/106114/fighter3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/ScrollTrigger.js"></script>
+    <script>
+        console.clear();
+
+        // Assets taken from Pixi.js examples
+        // https://github.com/pixijs/examples
+
+        // frame data for packed sprite sheet
+        // https://s3-us-west-2.amazonaws.com/s.cdpn.io/106114/fighter3.js
+
+        gsap.defaults({
+            ease: "none"
+        });
+
+        const canvas = document.querySelector("#canvas");
+        const context = canvas.getContext("2d");
+        const resolution = window.devicePixelRatio || 1;
+
+        let vw, vh, cx, cy;
+
+        const fighter = {
+            progress: 0,
+            scale: 0.5,
+            rotation: 0,
+            frame: 0,
+            x: -175 / 2,
+            y: -240 / 2,
+            alpha: 1
+        };
+
+        const sprite = new Image();
+        sprite.onload = init;
+        sprite.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/106114/fighter3.png";
+
+        function init() {
+
+            // do 5 rolls
+            const rollProgress = gsap.utils.pipe(
+                gsap.utils.wrap(0, 0.2),
+                gsap.utils.normalize(0, 0.2)
+            );
+
+            const roll = gsap.to(fighter, {
+                paused: true,
+                frame: frames.length - 1,
+                snap: "frame"
+            });
+
+            gsap.timeline({
+                scrollTrigger: {
+                    scrub: 0.5
+                },
+                onUpdate() {
+                    roll.progress(rollProgress(fighter.progress));
+                    update();
+                }
+            })
+                .to(fighter, {
+                    progress: 1,
+                    duration: 1
+                }, 0)
+                .to(fighter, {
+                    scale: 1,
+                    duration: 0.25
+                }, 0.25)
+                .to(fighter, {
+                    scale: 0.25,
+                    alpha: 0,
+                    duration: 0.25
+                }, 0.75)
+                .to(fighter, {
+                    rotation: Math.PI * 2,
+                    duration: 1
+                }, 0);
+
+            resize();
+            update();
+            window.addEventListener("resize", resize);
+        }
+
+        function update() {
+
+            const frame = frames[fighter.frame];
+
+            const f = frame.frame;
+            const s = frame.spriteSourceSize;
+
+            const x = fighter.x + s.x;
+            const y = fighter.y + s.y;
+
+            context.save();
+            context.clearRect(0, 0, vw, vh);
+            context.globalAlpha = fighter.alpha;
+            context.translate(cx, cy);
+            context.scale(fighter.scale, fighter.scale);
+            context.rotate(fighter.rotation);
+            context.drawImage(sprite, f.x, f.y, f.w, f.h, x, y, f.w, f.h);
+            context.restore();
+        }
+
+        function resize() {
+
+            vw = window.innerWidth;
+            vh = window.innerHeight;
+
+            cx = vw / 2;
+            cy = vh / 2;
+
+            canvas.width = vw * resolution;
+            canvas.height = vh * resolution;
+
+            canvas.style.width = vw + "px";
+            canvas.style.height = vh + "px";
+
+            context.scale(resolution, resolution);
+
+            update();
+        }
+    </script>
+</body>
+
+</html>

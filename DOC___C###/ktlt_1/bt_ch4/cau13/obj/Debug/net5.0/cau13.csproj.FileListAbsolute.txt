@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13.deps.json
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13.runtimeconfig.json
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13.runtimeconfig.dev.json
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13.dll
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/ref/cau13.dll
+/home/thanh-luong/Documents/bt_ch4/cau13/bin/Debug/net5.0/cau13.pdb
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.AssemblyInfo.cs
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.dll
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/ref/cau13.dll
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.pdb
+/home/thanh-luong/Documents/bt_ch4/cau13/obj/Debug/net5.0/cau13.genruntimeconfig.cache

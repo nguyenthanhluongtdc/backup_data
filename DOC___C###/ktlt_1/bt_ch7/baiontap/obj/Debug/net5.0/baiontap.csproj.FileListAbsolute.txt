@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.AssemblyInfo.cs
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap.deps.json
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap.runtimeconfig.json
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap.runtimeconfig.dev.json
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap.dll
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/ref/baiontap.dll
+/home/thanh-luong/Documents/bt_ch7/baiontap/bin/Debug/net5.0/baiontap.pdb
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.dll
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/ref/baiontap.dll
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.pdb
+/home/thanh-luong/Documents/bt_ch7/baiontap/obj/Debug/net5.0/baiontap.genruntimeconfig.cache

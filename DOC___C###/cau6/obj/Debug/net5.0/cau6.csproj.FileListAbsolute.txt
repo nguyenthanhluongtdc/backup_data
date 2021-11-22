@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.AssemblyInfo.cs
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6.deps.json
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6.runtimeconfig.json
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6.runtimeconfig.dev.json
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6.dll
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/ref/cau6.dll
+/home/thanh-luong/Documents/bt_ch7/cau6/bin/Debug/net5.0/cau6.pdb
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.dll
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/ref/cau6.dll
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.pdb
+/home/thanh-luong/Documents/bt_ch7/cau6/obj/Debug/net5.0/cau6.genruntimeconfig.cache

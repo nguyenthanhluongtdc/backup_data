@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1.deps.json
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1.runtimeconfig.json
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1.runtimeconfig.dev.json
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/ref/kiemtra_cau1.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/bin/Debug/net5.0/kiemtra_cau1.pdb
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.AssemblyInfo.cs
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/ref/kiemtra_cau1.dll
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.pdb
+/home/thanh-luong/Documents/kiemtrasonguyen/kiemtra_cau1/obj/Debug/net5.0/kiemtra_cau1.genruntimeconfig.cache

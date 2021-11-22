@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example.deps.json
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example.runtimeconfig.json
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example.runtimeconfig.dev.json
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example.dll
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/ref/example.dll
+/home/thanh-luong/Documents/DOC___C###/example/bin/Debug/net5.0/example.pdb
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.AssemblyInfo.cs
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.dll
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/ref/example.dll
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.pdb
+/home/thanh-luong/Documents/DOC___C###/example/obj/Debug/net5.0/example.genruntimeconfig.cache

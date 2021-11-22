@@ -1,0 +1,16 @@
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.csprojAssemblyReference.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.GeneratedMSBuildEditorConfig.editorconfig
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.AssemblyInfoInputs.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.AssemblyInfo.cs
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.csproj.CoreCompileInputs.cache
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10.deps.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10.runtimeconfig.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10.runtimeconfig.dev.json
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/ref/cau10.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/bin/Debug/net5.0/cau10.pdb
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/ref/cau10.dll
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.pdb
+/home/thanh-luong/Documents/bt_ch6_22-05-2021_NguyenThanhLuong/cau10/obj/Debug/net5.0/cau10.genruntimeconfig.cache
