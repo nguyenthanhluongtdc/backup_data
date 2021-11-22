@@ -216,3 +216,12 @@ Mức 1: /var/www/.htpasswd
 2) viweb / Viweb@@1234
 Dành cho nhân viên công ty truy cập hệ thống nội bộ
 Mức 2: /var/www/.htpasswd-viweb
+
+
+-----link chrome 
+
+-react example: https://vntalking.com/hoc-react-qua-10-du-an-thuc-te-tu-co-ban-nang-cao.html
+-animation: https://michalsnik.github.io/aos/
+-metabase: https://metabase.duckdata.dev/ (thanhluong1999)
+-english: https://www.englishspeak.com/en/english-phrases
+-example sql: https://www.w3resource.com/sql-exercises/
