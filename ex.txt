@@ -1,0 +1,218 @@
+https://vntalking.com/hoc-react-qua-10-du-an-thuc-te-tu-co-ban-nang-cao.html
+https://michalsnik.github.io/aos/
+https://github.com/joshnh/Git-Commands
+
+----------folder 1:
+//link menu sidebar: https://codepen.io/ray0315/pen/vgaqZN
+
+//drnee
+-- design: https://www.figma.com/file/3nafiKluzwuA4A52ehicXG/DRNEE?node-id=0%3A1
+
+--live: http://drnee.tech.gistensal.com/
+--password: Viweb@@1506
+
+--file fb: https://docs.google.com/spreadsheets/d/189C1f4qKiZz1b_sjU3bvviyglT99_zylotBEQ1s7nBM/edit#gid=1616422381
+
+https://www.shapedivider.app/
+
+//giaxd
+tk: cskh.giaxd@gmail.com
+mk: 123456
+
+mavanhung679@gmail.com
+123456
+
+ecommerce_store_categories
+
+----------------folder 3: 
+gparted
+https://www.youtube.com/watch?v=o-2GopsJrIE
+
+gõ cửa
+
+https://www.xconvert.com/downloads
+/tmp/droidcam
+
+git rm -r --cached .
+git reset HEAD -- .
+ 
+https://docs.google.com/presentation/d/1ezpaVeFMrchwxb80K8xvSCMoUiSUx-FEtK3tT3UWhiA/edit#slide=id.gf551a054b4_1_32
+
+https://learning.edx.org/course/course-v1:KULeuvenX+WEBSECx+3T2017/home
+
+git remote set-url origin git+ssh://git@github.com/username/reponame.git
+
+https://www.youtube.com/watch?v=n0ipeX-kqWI
+
+----------------folder 2.1
+2880
+2560
+2160
+
+1921 => 1080
+1920 => 1080
+1680 => 1050
+1600 => 900
+1440 => 900
+1280 => 800
+1366 => 768
+1280 => 800
+1080 =>  1920
+768 => 1280
+
+convert ffmpeg -i mattruoc.mp4 -vf scale=320:-1 -r 10 -f image2pipe -vcodec ppm - | convert -delay 10 -loop 0 - mattruoc.gif
+
+reset_opcache.php
+
+sudo service mysql stop
+sudo /etc/init.d/apache2 stop
+https://developers.google.com/speed/pagespeed/insights/
+
+https://airtable.com/shrl0UExfAT9ZaR20/tblQ8aCRrw2eIfrNZ?fbclid=IwAR3o8YHFwgMKuLDSmB49zNTEjVLoYU6SdOSJEi4gBj-I9JPXxJ4cz5437Vo
+
+----------folder 2: 
+username/password: 
+sysadmin@gistensal.com
+Viweb@@1234
+
+http://carnival.kiamotorsvietnam.com.vn/reset_opcache.php
+
+https://www.onlineconverter.com/convert/2140a8aa456deb9b07abe807d0a20ad605#google_vignette
+
+withQueryString Viweb@@1234
+
+luong.nt@visualweber.com 
+
+mobile thacogroup
+https://drive.google.com/drive/u/0/folders/13bFex454CiRrJpSjT_O7mxK9Z2sq9w30
+
+//design k4
+http://kiacarnival-ldp.dev.gistensal.com/
+
+https://drive.google.com/drive/u/1/folders/1I3J2Frqvk5mEx6FQH_YUOCtVGIJ2LqFk
+
+php artisan vendor:publish --tag=laravel-pagination
+Viweb@@246357
+
+mk: thacoauto
+Abc@@1234
+
+viweb / Viweb@@1234
+sass --watch public/themes/main/sass/common.scss public/themes/main/css/common.css
+sass --watch public/themes/main/sass/common.scss public/themes/main/css/common.css
+
+//icon vuetify
+https://materialdesignicons.com/
+//google font
+https://fonts.google.com/icons?selected=Material+Icons&icon.query=album
+
+https://github.com/michalsnik/aos/issues/490
+
+//autocomplete ajax laravel
+https://www.codecheef.org/article/autocomplete-search-with-laravel-jquery-and-ajax
+
+//source
+https://github.com/hoangvu12/Netime?fbclid=IwAR12OsPYXaEpgjGhROZupiySiCaWDqDuD3QbI0kY5-OQzVU2nZeN_X-6cZ8
+
+//get api
+https://github.com/ttpro1995/vuighe-getlink?fbclid=IwAR1eGz347r2XaCt3z1uO3CqWEyi3dpe4_ob4fv_qNHfKkyTgFvk3cCt6T14
+
+//
+https://github.com/hoangvu12?tab=repositories
+
+//timeline
+https://docs.google.com/spreadsheets/d/1BU7BT8N0Q-w-pVW_hXU6mFYm7y4uhkNesObmCXF5vcU/edit#gid=959414664
+
+//hailong
+admin@gistensal.com
+Hailong@@2021
+
+cắt giao diện từ Figma
+
+	
+
+https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Farmcobarriers.dev.gistensal.com%2Fposts%2Fsteel-shield-grills-add-looks-safety-to-new-saigon-house
+https://drive.google.com/drive/folders/1yHo7XqM0U4KGuK_aMnQBgDC4L5Y3Pxz7
+
+https://laravel.com/api/5.8/Illuminate/Database/Eloquent/Relations/BelongsToMany.html
+
+https://mail.yandex.com/
+
+https://pms.visualweber.net/login?back_url=https%3A%2F%2Fpms.visualweber.net%2F
+
+https://www.photopea.com/
+
+https://s-art.pro/
+
+bash bin/bootstrap.sh -e d
+
+https://docs.google.com/spreadsheets/d/1mU7BRT2B-nGG2RO_oXzo47t_HrouWc6JNnT0kAb6H7Y/edit
+
+https://www.topcv.vn/viec-lam/lap-trinh-vien-php/462545.html?ta_source=JobSearchList
+
+///alert
+https://sweetalert2.github.io/
+
+//cop
+https://codepen.io/andrea89/pen/xYJLxG
+
+//active scroll
+https://codepen.io/iamalexmacc/pen/dVgvmY/?editors=1010
+
+//counter
+https://codepen.io/LMG/pen/rOqjOW
+
+//xd online 
+https://psdetch.com/
+
+//responsive
+https://drive.google.com/drive/u/0/folders/1JNathWl6bdLWtmKUb5fpVXwFGHOtBc17
+
+
+https://docs.google.com/spreadsheets/d/12QAnKKntGvDoyYU_-7dcBN_IQ_R8gEfFehinfIH0nbo/edit#gid=0
+
+//filter image
+https://stackoverflow.com/questions/7415872/change-color-of-png-image-via-css
+
+//get color image
+https://codepen.io/sosuke/pen/Pjoqqp
+
+//animation border
+https://codepen.io/SirAlfred/pen/MWJEWXZ
+
+///////////////////////////////////////////////////////////////
+license: giấy phép
+deactivate: hủy kích hoạt
+
+tinyjpg
+
+http://celesta-teaser.dev.gistensal.com/en
+
+https://developers.google.com/speed/pagespeed/insights/
+
+//fb k4
+https://docs.google.com/presentation/d/1u-asEMEid3jPdbS29o4Yy-TnEeNd7UmSuZgyjt2VwG0/edit#slide=id.gf0b3ae1819_0_102
+
+https://docs.google.com/spreadsheets/d/1iYEyUkc3UGimp6-0wYjV7iEMUCef7HHT1YLo-CcdB44/edit#gid=0
+
+https://docs.google.com/presentation/d/1u-asEMEid3jPdbS29o4Yy-TnEeNd7UmSuZgyjt2VwG0/edit#slide=id.gf0b3ae1819_0_55
+
+Học javascript căn bản từ đầu, học viên hiểu về biến, hằng, vòng lặp, event, function, arrow function, destructure, promise, callback, sync, await, cách javascript tương tác với DOM document.
+
+https://drive.google.com/drive/u/2/folders/14TuRfpmEU_Y9Q7OOVd3dxMl7Idki2YnF
+
+//get movie
+https://getyarn.io/
+
+https://docs.google.com/presentation/d/1u-asEMEid3jPdbS29o4Yy-TnEeNd7UmSuZgyjt2VwG0/edit?pli=1#slide=id.gebe26c6a24_1_22
+
+https://docs.google.com/spreadsheets/d/1V7fW0FpAzoTTh6xMNTUZQ3FQfuWsMXLzVKA-1L1T_6I/edit?usp=drive_web&ouid=113940665977359409686
+
+http://www.visualweber.net/pma/
+HTTP Authentication
+1) web / 123456
+Dành cho khách hàng hoặc bảo mật mức cơ bản
+Mức 1: /var/www/.htpasswd
+2) viweb / Viweb@@1234
+Dành cho nhân viên công ty truy cập hệ thống nội bộ
+Mức 2: /var/www/.htpasswd-viweb
